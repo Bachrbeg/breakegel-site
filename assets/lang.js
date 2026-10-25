@@ -5,7 +5,7 @@
   var saved = null;
   try { saved = localStorage.getItem('lang'); } catch (e) {}
   var nav = (navigator.language || 'en').toLowerCase();
-  var lang = saved || (nav.indexOf('fr') === 0 ? 'fr' : 'en');
+  var lang = window.FORCE_LANG || saved || (nav.indexOf('fr') === 0 ? 'fr' : 'en');
 
   function apply(l) {
     root.lang = l;
