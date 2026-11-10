@@ -1,6 +1,6 @@
 # Break : exercices de Kegel
 
-> Break is a free iPhone app (iOS) for Kegel / pelvic floor exercises, for men and women. It sends discreet reminders (1 to 5 a day) and guides each 2–4 minute session with an animated circle, vibrations and sound or voice cues, including with the phone locked. No account, no ads, no data collection: everything stays on the device. Available in French and English. Published by I-ETERIA (Rabat, Morocco). Android version coming soon on Google Play.
+> Break is a free iPhone app (iOS) for Kegel / pelvic floor exercises, for men and women. It sends discreet reminders (1 to 5 a day) and guides each 2–4 minute session with an animated circle, vibrations and sound or voice cues, including with the phone locked. No account, no ads, no data collection: everything stays on the device. Available in French and English. Published by Open River Labs LLC (Newark, Delaware, USA — https://openriverlabs.app/). Android version coming soon on Google Play.
 
 - App Store: https://apps.apple.com/app/id6825004744
 - Website (FR): https://breakegel.com/
