@@ -1,6 +1,6 @@
 # Break : exercices de Kegel
 
-> Break is a free iPhone app (iOS) for Kegel / pelvic floor exercises, for men and women. It sends discreet reminders (1 to 5 a day) and guides each 2–4 minute session with an animated circle, vibrations and sound or voice cues, including with the phone locked. No account, no ads, no data collection: everything stays on the device. Available in French and English. Published by I-ETERIA (Rabat, Morocco).
+> Break is a free iPhone app (iOS) for Kegel / pelvic floor exercises, for men and women. It sends discreet reminders (1 to 5 a day) and guides each 2–4 minute session with an animated circle, vibrations and sound or voice cues, including with the phone locked. No account, no ads, no data collection: everything stays on the device. Available in French and English. Published by I-ETERIA (Rabat, Morocco). Android version coming soon on Google Play.
 
 - App Store: https://apps.apple.com/app/id6825004744
 - Website (FR): https://breakegel.com/
@@ -10,6 +10,20 @@
 - Privacy policy: https://breakegel.com/privacy/
 - Support: https://breakegel.com/support/
 - Contact: contact@breakegel.com
+
+## Guides (FR)
+- Kegel pour homme: https://breakegel.com/guide/kegel-homme/
+- Kegel après l'accouchement: https://breakegel.com/guide/kegel-apres-accouchement/
+- Au bout de combien de temps ?: https://breakegel.com/guide/resultats-kegel-combien-de-temps/
+- Kegel et fuites urinaires: https://breakegel.com/guide/kegel-fuites-urinaires/
+- Quelle application choisir ?: https://breakegel.com/guide/application-kegel-gratuite/
+
+## Guides (EN)
+- Kegels for men: https://breakegel.com/en/guide/kegel-exercises-for-men/
+- Kegels after childbirth: https://breakegel.com/en/guide/kegel-after-childbirth/
+- How long until results?: https://breakegel.com/en/guide/kegel-results-how-long/
+- Kegels and urine leaks: https://breakegel.com/en/guide/kegel-exercises-urinary-incontinence/
+- Which app to choose?: https://breakegel.com/en/guide/best-free-kegel-app/
 
 ## Key facts
 - Session: 10 slow squeezes (3, 5, 7 or 10 seconds depending on level) then 10 quick squeezes; 2 to 4 minutes.
