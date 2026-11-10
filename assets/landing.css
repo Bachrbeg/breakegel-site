@@ -17,6 +17,9 @@ header.top .wide { display: flex; align-items: center; justify-content: space-be
 .btn-light { background: var(--text); color: var(--on-accent); }
 .btn-accent { background: var(--accent); color: var(--on-accent); }
 .btn:hover { opacity: .9; color: var(--on-accent); }
+.btn-soon { background: transparent; color: var(--text); border: 1.5px dashed color-mix(in srgb, var(--text) 40%, transparent); opacity: .75; cursor: default; font-size: 15px; }
+.btn-soon:hover { opacity: .75; color: var(--text); }
+.final .btn-soon { margin-left: 12px; margin-top: 12px; }
 .muted-note { font-size: 15px; color: var(--muted); }
 .checks { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px 24px; font-size: 15px; }
 .checks li { display: flex; align-items: center; gap: 8px; color: #C9D5D8; }
